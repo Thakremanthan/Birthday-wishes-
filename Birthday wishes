@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Birthday My Love</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Birthday, My Love!</h1>
+        <img src="your-image-url.jpg" alt="Happy Birthday Image" class="birthday-image">
+        <p class="message">On your special day, I just want to remind you how much you mean to me. You are my world, and I am so lucky to have you in my life.</p>
+        <p class="message">May your birthday be filled with love, joy, and happiness. I love you more than words can express. Happy Birthday!</p>
+        <button class="heart-button">❤️</button>
+        <p class="signature">Yours forever, Manthan</p>
+    </div>
+
+    <div class="balloons">
+        <div class="balloon"></div>
+        <div class="balloon"></div>
+        <div class="balloon"></div>
+        <div class="balloon"></div>
+        <div class="balloon"></div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
